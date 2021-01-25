@@ -180,10 +180,7 @@ footer{
 }
 
 
-/*---.fa-download{
-    color:#fafafa;
 
-}*/
 
 .cv-pdf{
     font-size:18px;
@@ -202,7 +199,7 @@ footer{
 
 .cv-pdf:hover{
     color: #e84610;
-
+ 
 }
 
 
@@ -237,3 +234,15 @@ footer{
 #footer-details{
     padding: 20px;
 }
+
+/*------------------------Three Reasons-----------------------*/
+
+.three-reasons-icon{
+    font-size: 26px;
+    color:#e67e22;
+}
+
+.three-reasons-heading{
+    margin-bottom: 15px;
+
+}  
